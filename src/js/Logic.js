@@ -3,7 +3,7 @@ export default class Logic {
   constructor(gui) {
     this.gui = gui;
     // this.url = 'ws://localhost:7070/ws';
-    this.url = 'ws://npeplov-ahj-sse-ws.herokuapp.com/';
+    this.url = 'wss://npeplov-ahj-sse-ws.herokuapp.com/';
     this.user = null;
   }
 
