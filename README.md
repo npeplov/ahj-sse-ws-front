@@ -1,11 +1,13 @@
 #### Домашние задания к курсу «Продвинутый JavaScript в браузере»
-### 5. Websockets. Chat
+### 8. Websockets. Chat
 
-[![Build]
+[![Build](https://ci.appveyor.com/api/projects/status/y7h02mitraahl2hh?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-sse-ws-front)
 
-Environment: https://npeplov.github.io/ahj-forms-popovers
+Environment: https://npeplov.github.io/ahj-sse-ws-front
 
-License: https://npeplov.github.io/ahj-forms-popovers/license.txt
+License: https://npeplov.github.io/ahj-sse-ws-front/license.txt
+
+Heroku: https://npeplov-ahj-sse-ws.herokuapp.com/
 
 ---
 
